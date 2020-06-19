@@ -44,6 +44,14 @@ const Cookies = () => (
         Klik her for at fravælge cookies fra Google Analytics
       </a>
     </p>
+
+    <br />
+
+    <p>
+      Denne hjemmeside er affiliate finansieret. Hver gang en Podimo modtager vi
+      en lille kommision. Kommisionen går til vedligholdese og videreudvikling
+      af hjemmesiden.
+    </p>
   </Layout>
 );
 
