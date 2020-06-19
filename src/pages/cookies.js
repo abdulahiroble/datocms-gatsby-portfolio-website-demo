@@ -19,14 +19,21 @@ const Cookies = () => (
       </a>
     </p>
 
+    <br />
+
     <h2>Nødvendige cookies</h2>
+    <br />
 
     <p>
       Nogle cookies kræves for at hjemmesiden kan fungere. Hjemmesiden fungerer
       ikke korrekt uden disse cookies, og de er som standard aktiveret.
     </p>
 
+    <br />
+
     <h2>Google Analytics</h2>
+
+    <br />
 
     <p>
       Disse cookies giver os mulighed for at tælle besøgende og trafikkilder, så
