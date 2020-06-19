@@ -3,6 +3,7 @@ require("dotenv").config();
 module.exports = {
   siteMetadata: {
     title: `Creative Portfolio`,
+    siteUrl: "https://godepodcasts.dk/",
   },
   plugins: [
     `gatsby-plugin-react-helmet`,
