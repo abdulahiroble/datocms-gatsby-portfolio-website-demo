@@ -3,7 +3,6 @@ import Layout from "../components/layout";
 
 const Cookies = () => (
   <Layout>
-    <SEO title="Cookies" />
     <h1
       style={{
         paddingLeft: "10px",
